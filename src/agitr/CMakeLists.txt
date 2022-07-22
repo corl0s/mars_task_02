@@ -3,9 +3,9 @@ project(agitr)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
 # add_compile_options(-std=c++11)
-catkin_install_python(PROGRAMS src/sensor_node.py
-  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-)
+#catkin_install_python(PROGRAMS src/sensor_node.py
+#  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+#)
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
