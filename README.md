@@ -63,7 +63,7 @@ Some of the sensors in a rover are as follows:
     
     MEDLI measures the heat and atmospheric changes that occur during the descent, to help determine the effects on different parts of the spacecraft.
 
-### Actuators
+### `Actuators`
 
 An actuator is a complex component comprised of a motor and a gearbox.
 
